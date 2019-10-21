@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>user_guide</class>
+ <widget class="QWidget" name="user_guide">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>220</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Load Successfully</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>window_icon.ico</normaloff>window_icon.ico</iconset>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
