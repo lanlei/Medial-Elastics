@@ -1,4 +1,4 @@
-# TOG19-Medial-Elastics
+# Medial-Elastics
 
 ## Important Tips
 * Our code was developed on Windows 10 and compiled on VS 2017.<br>
